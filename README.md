@@ -2,7 +2,7 @@
 
 The bot provides an alert function in a Telegram Channel when the stream goes up, through subscription to Twitch events using Twitch Webhooks. 
 
-The app is also completely ready to be integrated with more complex functions and it supports Telegram webhooks thanks to the [pyTelegramBotAPI]([GitHub - eternnoir/pyTelegramBotAPI: Python Telegram bot api.](https://github.com/eternnoir/pyTelegramBotAPI/)).
+The app is also completely ready to be integrated with more complex functions and it supports Telegram webhooks thanks to the [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI/).
 
 ***
 
